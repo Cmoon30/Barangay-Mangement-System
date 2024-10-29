@@ -25,5 +25,5 @@ This project is a Barangay Management System built with React Vite. It helps man
 
 ## Tech Stack
 
-- **Frontend**: React.js, Vite, Sass
-- **Backend**: Firebase (for database, storage, and authentication)
+- **Frontend**: React.js Vite and Sass
+- **Backend**: Firebase (for database, storage and authentication)
