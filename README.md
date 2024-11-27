@@ -2,6 +2,10 @@
 
 This project is a Barangay Management System built with React Vite. It helps manage various tasks and provides real-time data with easy-to-use features.
 
+## Live Demo
+
+Check out the system here: [Barangay Management System](https://barangay-santa-ines.netlify.app/)
+
 ## Features
 
 - **Real-Time Data**: Get instant updates on barangay activities and posts.
@@ -26,4 +30,4 @@ This project is a Barangay Management System built with React Vite. It helps man
 ## Tech Stack
 
 - **Frontend**: React.js Vite and Sass
-- **Backend**: Firebase (for database, storage and authentication)
+- **Backend**: Firebase (for database, storage, and authentication)
