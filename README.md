@@ -6,6 +6,10 @@ This project is a Barangay Management System built with React Vite. It helps man
 
 Check out the system here: [Barangay Management System](https://barangay-santa-ines.netlify.app/)
 
+## Figma Design
+
+Explore the UI design on Figma: [Barangay Management System UI](https://www.figma.com/design/y9t93GhAjNVizlkGqoHIal/Brgy.-Management-System?node-id=0-1&p=f&t=ODLikjLb7wAN1Tqx-0)
+
 ## Features
 
 - **Real-Time Data**: Get instant updates on barangay activities and posts.
